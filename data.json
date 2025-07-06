@@ -1,0 +1,29 @@
+{
+  "widgets": [
+    {
+      "title": "Stundenplan",
+      "line1": "07:45 Latein(3/10)",
+      "line2": "09:35 FuE(11/10)",
+      "line3": "11:25 Deutsch(2/10)"
+    },
+    {
+      "title": "Noten",
+      "line1": "Mathe: 2",
+      "line2": "Bio: 4-",
+      "line3": "Blockblast: 1+",
+      "line4": "Sport: 6"
+    },
+    {
+      "title": "ToDo",
+      "line1": "[x] Bio lernen",
+      "line2": "[ ] Referat Chemie",
+      "line3": "[ ] Döner"
+    },
+    {
+      "title": "Motivation",
+      "line1": "Heute: 80%",
+      "line2": "Gestern: 40%",
+      "line3": "Letzte Woche: 32%"
+    }
+  ]
+}
